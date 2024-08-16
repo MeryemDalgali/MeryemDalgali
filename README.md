@@ -1,6 +1,6 @@
 ## Hi there, I'm Meryem 👋
-![Header](![github-header-image](https://github.com/user-attachments/assets/a74e463b-9016-4fe4-9799-542c93da5971)
-)
+![github-header-image](https://github.com/user-attachments/assets/e34b7d58-5385-433f-845d-c1b067cc605d)
+
 <!--
 **MeryemDalgali/MeryemDalgali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
