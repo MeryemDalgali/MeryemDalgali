@@ -1,4 +1,4 @@
-## Hi there, I'm Meryem 👋
+## Hi there 👋
 ![github-header-image](https://github.com/user-attachments/assets/e34b7d58-5385-433f-845d-c1b067cc605d)
 
 <!--
