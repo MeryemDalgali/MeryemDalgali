@@ -1,4 +1,4 @@
-## Hi, I'm Meryem 👋
+## Meryem Dalgalı
 <p>Cyber Security Researcher</p>
 
 
